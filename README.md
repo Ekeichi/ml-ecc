@@ -1,2 +1,2 @@
-# ML-centraleCASA
-exploitation of the FNSPID dataset.
+# ml-ecc
+exploitation of the FNSPID dataset. https://arxiv.org/pdf/2402.06698
