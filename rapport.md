@@ -13,6 +13,8 @@ La prédiction de l’évolution des marchés est impossible, il est inconcevabl
 
 Les différents fonds de financement et de trading ont pour seul but d’avoir un PnL positif à la fin de l’année et surtout de battre le marché. Une des principales sources permettant de faire de gros profits est l’information, la donnée sur les entreprises cotées en bourses. Ces fonds payent pour recevoir des données confidentielles sur les entreprises où ils investissent, et arrivent parfois à « battre le marché ». [2]
 
+![Pierre Chartier](pierre_chartier.jpg)
+
 En tant que particulier, il est simplement impossible d’avoir accès à de telles données, difficile est d’avoir les compétences pour les interpréter et très compliqué d’avoir les financements nécessaires pour réaliser des profits additionnels conséquent. 
 
 ### b.	Le Machine Learning 
