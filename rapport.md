@@ -5,7 +5,7 @@
 
 ## I.	Introduction
 
-### a.	La finance. 
+### a.	La finance
 
 Définition : La finance renvoie à un domaine d'activité, celui du financement , aujourd'hui mondialisé, qui consiste à fournir ou trouver l'argent ou les « produits financiers » nécessaire à la réalisation d'une opération économique. La finance permet de faire transiter des capitaux des agents économiques excédentaires (qui disposent d'une épargne à faire fructifier) aux agents économiques déficitaires, qui en ont besoin (pour se financer, croître, etc.). [1]
 
