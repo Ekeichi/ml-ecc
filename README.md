@@ -1,10 +1,10 @@
-# 📊 Analyse Prédictive du Cours d'Apple (AAPL) - Machine Learning & Trading Algorithmique
+# 📊 Analyse prédictive du cours d'Apple (AAPL) - Machine Learning & Trading algorithmique
 
-## 🎯 Objectif du Projet
+## 🎯 Objectif du projet
 
 Ce projet présente une analyse complète et une stratégie de trading algorithmique basée sur l'apprentissage automatique pour prédire les mouvements du cours d'Apple Inc. (AAPL). L'objectif est de développer un modèle prédictif robuste capable de générer des signaux de trading rentables tout en gérant les risques de manière appropriée.
 
-## 📁 Structure du Projet
+## 📁 Structure du projet
 
 ```
 projet/
@@ -16,9 +16,9 @@ projet/
 └── [autres fichiers auxiliaires]
 ```
 
-## 🚀 Fonctionnalités Principales
+## 🚀 Fonctionnalités principales
 
-- ✅ **Ingénierie de caractéristiques avancée** : Plus de 40 indicateurs techniques
+- ✅ **Ingénierie de caractéristiques avancée** : autour de 40 indicateurs techniques
 - ✅ **Preprocessing robuste** : Transformation et normalisation des données
 - ✅ **Validation croisée temporelle** : Respect de l'ordre chronologique
 - ✅ **Ensemble de modèles optimisés** : XGBoost, Random Forest, Gradient Boosting, etc.
@@ -26,19 +26,19 @@ projet/
 - ✅ **Interprétabilité des modèles** : Analyse SHAP pour comprendre les prédictions
 - ✅ **Métriques financières** : Évaluation orientée trading
 
-## 📖 Description Détaillée des Cellules
+## 📖 Description détaillée des cellules
 
-### 🏠 **Cellule 0 : Introduction et Méthodologie**
+### 🏠 **Cellule 0 : Introduction et méthodologie**
 - **Type** : Markdown
 - **Contenu** : Présentation du projet, objectifs et améliorations apportées
 - **Importance** : Documentation et contexte du projet
 
-### 📊 **Cellule 1 : En-tête - Importation et Traitement des Données**
+### 📊 **Cellule 1 : En-tête - Importation et traitement des données**
 - **Type** : Markdown  
 - **Contenu** : Titre de la première section principale
 - **Rôle** : Structure et organisation du notebook
 
-### 🔧 **Cellule 2 : Chargement et Exploration des Données**
+### 🔧 **Cellule 2 : Chargement et exploration des données**
 ```python
 # Fonctionnalités principales :
 - Chargement du fichier AAPL.csv depuis dataset/full_history/
