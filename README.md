@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Analyse prédictive du cours d'Apple (AAPL) - Machine Learning & Trading algorithmique
 
 ## 🎯 Objectif du projet
@@ -5,6 +6,15 @@
 Ce projet présente une analyse complète et une stratégie de trading algorithmique basée sur l'apprentissage automatique pour prédire les mouvements du cours d'Apple Inc. (AAPL). L'objectif est de développer un modèle prédictif robuste capable de générer des signaux de trading rentables tout en gérant les risques de manière appropriée.
 
 ## 📁 Structure du projet
+=======
+# 📊 Analyse Prédictive du Cours d'Apple (AAPL) - Machine Learning & Trading Algorithmique
+
+## 🎯 Objectif du Projet
+
+Ce projet présente une analyse complète et une stratégie de trading algorithmique basée sur l'apprentissage automatique pour prédire les mouvements du cours d'Apple Inc. (AAPL). L'objectif est de développer un modèle prédictif robuste capable de générer des signaux de trading rentables tout en gérant les risques de manière appropriée.
+
+## 📁 Structure du Projet
+>>>>>>> a6dcb01 (commit)
 
 ```
 projet/
@@ -16,9 +26,15 @@ projet/
 └── [autres fichiers auxiliaires]
 ```
 
+<<<<<<< HEAD
 ## 🚀 Fonctionnalités principales
 
 - ✅ **Ingénierie de caractéristiques avancée** : autour de 40 indicateurs techniques
+=======
+## 🚀 Fonctionnalités Principales
+
+- ✅ **Ingénierie de caractéristiques avancée** : Plus de 40 indicateurs techniques
+>>>>>>> a6dcb01 (commit)
 - ✅ **Preprocessing robuste** : Transformation et normalisation des données
 - ✅ **Validation croisée temporelle** : Respect de l'ordre chronologique
 - ✅ **Ensemble de modèles optimisés** : XGBoost, Random Forest, Gradient Boosting, etc.
@@ -26,19 +42,33 @@ projet/
 - ✅ **Interprétabilité des modèles** : Analyse SHAP pour comprendre les prédictions
 - ✅ **Métriques financières** : Évaluation orientée trading
 
+<<<<<<< HEAD
 ## 📖 Description détaillée des cellules
 
 ### 🏠 **Cellule 0 : Introduction et méthodologie**
+=======
+## 📖 Description Détaillée des Cellules
+
+### 🏠 **Cellule 0 : Introduction et Méthodologie**
+>>>>>>> a6dcb01 (commit)
 - **Type** : Markdown
 - **Contenu** : Présentation du projet, objectifs et améliorations apportées
 - **Importance** : Documentation et contexte du projet
 
+<<<<<<< HEAD
 ### 📊 **Cellule 1 : En-tête - Importation et traitement des données**
+=======
+### 📊 **Cellule 1 : En-tête - Importation et Traitement des Données**
+>>>>>>> a6dcb01 (commit)
 - **Type** : Markdown  
 - **Contenu** : Titre de la première section principale
 - **Rôle** : Structure et organisation du notebook
 
+<<<<<<< HEAD
 ### 🔧 **Cellule 2 : Chargement et exploration des données**
+=======
+### 🔧 **Cellule 2 : Chargement et Exploration des Données**
+>>>>>>> a6dcb01 (commit)
 ```python
 # Fonctionnalités principales :
 - Chargement du fichier AAPL.csv depuis dataset/full_history/
@@ -392,4 +422,8 @@ Ce projet est développé dans un contexte éducatif. Pour toute question ou sug
 
 ---
 
+<<<<<<< HEAD
 **⚠️ Avertissement** : Ce projet est à des fins éducatives uniquement. Les stratégies de trading présentées ne constituent pas des conseils financiers. Investir en bourse comporte des risques de perte en capital.
+=======
+**⚠️ Avertissement** : Ce projet est à des fins éducatives uniquement. Les stratégies de trading présentées ne constituent pas des conseils financiers. Investir en bourse comporte des risques de perte en capital.
+>>>>>>> a6dcb01 (commit)
